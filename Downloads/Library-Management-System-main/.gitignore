@@ -19,5 +19,5 @@ library.exe
 build/
 dist/
 
-# Data file (optional: remove this line if you want to track library.txt)
-# library.txt
+# Data file (runtime generated, not tracked)
+library.txt
